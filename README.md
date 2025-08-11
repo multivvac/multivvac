@@ -1,8 +1,8 @@
-<h3 align="left">Don't Panic — Just Parallelize!</h3>
+### Don't Panic — Just Parallelize!😏
 
 ### About Me
 
-Learning & Building in CUDA · Parallel Computing · High-Performance Systems
+Learning & Building in CUDA😘 · Parallel Computing🔥 · High-Performance Systems💫
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/multivvac/multivvac/output/snake-dark.svg" />
