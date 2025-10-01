@@ -2,7 +2,7 @@
 
 ### About Me
 
-- Learning & Building in CUDA.
+Building scalable systems.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/multivvac/multivvac/output/snake-dark.svg" />
